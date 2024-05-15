@@ -1,6 +1,6 @@
 # (Widget) React UI take-home
 
-This is a forked repository for the fontend take-home interview challenge.
+This is a [React](https://es.react.dev) based forked repository for the frontend take-home interview challenge.
 
 ## Functionalities
 Users can create, view, edit and delete widgets.
